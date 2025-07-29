@@ -1,7 +1,3 @@
-Absolutely! Here's your entire **README** as a single Markdown document — ready to paste directly into a `README.md` file on GitHub:
-
----
-
 # Breast Cancer Detection using Support Vector Classifier (SVC)
 
 This project uses the **Breast Cancer Wisconsin (Diagnostic) Dataset** from `scikit-learn` to develop a highly accurate **machine learning model** for classifying tumors as malignant or benign. Leveraging **Support Vector Machines (SVC)** along with **StandardScaler**, the model achieves over **98% accuracy** on test data, showcasing the power of well-tuned SVMs in medical diagnostics.
@@ -74,6 +70,6 @@ This project uses the **Breast Cancer Wisconsin (Diagnostic) Dataset** from `sci
 *  [GitHub](https://github.com/eniserijemosope)
 *  [eniserijemosope@gmail.com](mailto:eniserijemosope@gmail.com)
 
-## 🌟 Show Your Support
+## Show Your Support
 
 If you found this project helpful or interesting, consider giving it a ⭐️ and sharing it!
