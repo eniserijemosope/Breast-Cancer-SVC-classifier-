@@ -43,16 +43,10 @@ This project uses the **Breast Cancer Wisconsin (Diagnostic) Dataset** from `sci
 
 ---
 
-## 📈 Visual Insights
+## Visual Insights
 
-### 🔹 Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix.png)
-
-### 🔹 Feature Correlation or PCA Plot
-
-![PCA Plot](images/pca_plot.png)
-
+### Confusion Matrix
+<img width="511" height="413" alt="confusion_matrix" src="https://github.com/user-attachments/assets/575c6778-14b5-4f3a-9adb-65543f9e374e" />
 
 
 ## Evaluation
