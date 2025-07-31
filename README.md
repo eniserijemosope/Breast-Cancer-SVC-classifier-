@@ -5,7 +5,6 @@ This project uses the **Breast Cancer Wisconsin (Diagnostic) Dataset** from `sci
 ## Project Highlights
 
 *  Achieved **98%+ accuracy** using Support Vector Classifier (SVC)
-*  Applied **GridSearchCV** for hyperparameter tuning
 *  Scaled data using **StandardScaler**
 *  Visualized performance with **confusion matrix** and **classification report**
 *  Entire pipeline implemented in a clean, reproducible Jupyter Notebook
